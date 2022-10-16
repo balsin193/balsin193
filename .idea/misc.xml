@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_album.xml" value="0.18" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_audio.xml" value="0.1" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_audio_album.xml" value="0.22" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_other.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_other_album.xml" value="0.1" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_photos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_restore_result.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_scanning.xml" value="0.22" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_setting.xml" value="0.1" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_video.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/activity_video_album.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/card_album_audio.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/card_album_new.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/card_audio.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/card_photo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/item_image.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/layout/layout_loading_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/menu/album_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/menu/toolbar_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+        <entry key="..\:/Users/balsi/AndroidStudioProjects/RecoverPhotoA2Z/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
